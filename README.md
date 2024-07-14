@@ -23,15 +23,10 @@ As a diligent student enrolled in the Bachelor of Computer Applications (BCA) pr
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hdz-088&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hdz-088&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hdz-088&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hdz-088&theme=github-dark&hide_border=true"></img>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hdz-088&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hdz-088&icon=5&color=9)](https://visitcount.itsvg.in)
