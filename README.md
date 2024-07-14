@@ -12,7 +12,7 @@
 # 💫 About Me:
 As a diligent student enrolled in the Bachelor of Computer Applications (BCA) program at Silver Oak University, I am proud to have attained a commendable CGPI of 9.27 during my first semester. Currently advancing through my second semester, I am deeply passionate about the field of Data Science. Additionally, I possess proficiency in web development, Java programming, as well as Git & GitHub. I am eager to further develop my skills and contribute meaningfully to the exciting realms of technology and data science.
 
-# My favorite tools and technologies ⚙️:
+# ⚙️ My favorite tools and technologies:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -29,8 +29,11 @@ As a diligent student enrolled in the Bachelor of Computer Applications (BCA) pr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdz-088&theme=github_dark_dimmed&layout=donut"></img>
 </p>
 
-
----
+# 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hdz-088&theme=gitdimmed&margin-w=15&no-frame=true"></img>
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"></img>
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=hdz-088&label=Profile%20Views&color=12&icon=1&pretty=true" />
 </p>
