@@ -6,7 +6,7 @@
   <a href="https://leetcode.com/u/hdz_088/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode3.svg" alt=""></a>
   <a href="https://linkedin.com/in/hdz088"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" alt=""></a>
   <a href="mailto:hdz088@outloo.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt=""></a>
-  <a href="ttps://hdz-088.github.io/ProjectVault/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg" alt=""></a>
+  <a href="https://hdz-088.github.io/ProjectVault/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio3.svg" alt=""></a>
 </p>
 
 # 💫 About Me:
