@@ -24,7 +24,9 @@ As a diligent student enrolled in the Bachelor of Computer Applications (BCA) pr
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hdz-088&theme=github-dark&hide_border=true"></img>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hdz-088&theme=github-dark-dimmed&hide_border=true&radius=10"></img><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=hdz-088&show_icons=true&theme=github_dark_dimmed&rank_icon=percentile&include_all_commits=true&show=reviews"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdz-088&theme=github_dark_dimmed&layout=donut"></img>
 </p>
 
 
