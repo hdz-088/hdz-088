@@ -37,3 +37,6 @@ As a diligent student enrolled in the Bachelor of Computer Applications (BCA) pr
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=hdz-088&label=Profile%20Views&color=12&icon=1&pretty=true" />
 </p>
+<p align="center">
+  <img src="klipartz.com.png" />
+</p>
